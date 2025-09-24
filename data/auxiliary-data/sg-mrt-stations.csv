@@ -1,0 +1,244 @@
+CODE,NAME,STATUS,LATITUDE,LONGITUDE,SUBZONE,PLANNING_AREA,REGION
+NS10,Admiralty MRT station,open,1.440689,103.800933,woodlands east,woodlands,north region
+EW9,Aljunied MRT station,open,1.316442,103.882981,aljunied,geylang,central region
+NS16,Ang Mo Kio MRT station,open,1.370017,103.84945,cheng san,ang mo kio,north-east region
+CR11,Ang Mo Kio MRT station,planned,1.370017,103.84945,cheng san,ang mo kio,north-east region
+CR2,Aviation Park MRT station,planned,1.37,104.003056,changi airport,changi,east region
+JS7,Bahar Junction MRT station,planned,1.345422,103.702542,jurong west central,jurong west,west region
+CC12,Bartley MRT station,open,1.342778,103.879722,bidadari,toa payoh,central region
+CC34,Bayfront MRT station,open,1.2825,103.859444,bayfront subzone,downtown core,central region
+DT16,Bayfront MRT station,open,1.2825,103.859444,bayfront subzone,downtown core,central region
+TE29,Bayshore MRT station,open,1.314722,103.943611,bayshore,bedok,east region
+DT5,Beauty World MRT station,open,1.341111,103.775833,anak bukit,bukit timah,central region
+EW5,Bedok MRT station,open,1.324039,103.930036,bedok north,bedok,east region
+DT29,Bedok North MRT station,open,1.336389,103.917778,kaki bukit,bedok,east region
+DT30,Bedok Reservoir MRT station,open,1.336389,103.933056,bedok reservoir,bedok,east region
+TE30,Bedok South MRT station,planned,1.316667,103.948333,bayshore,bedok,east region
+DT21,Bencoolen MRT station,open,1.298889,103.850278,bencoolen,rochor,central region
+DT23,Bendemeer MRT station,open,1.313611,103.863056,kallang bahru,kallang,central region
+NS17,Bishan MRT station,open,1.351111,103.848333,bishan east,bishan,central region
+CC15,Bishan MRT station,open,1.351111,103.848333,bishan east,bishan,central region
+NE9,Boon Keng MRT station,open,1.319444,103.861667,bendemeer,kallang,central region
+EW27,Boon Lay MRT station,open,1.338611,103.705833,jurong west central,jurong west,west region
+JS8,Boon Lay MRT station,planned,1.338611,103.705833,jurong west central,jurong west,west region
+CC19,Botanic Gardens MRT station,open,1.3225,103.815278,tyersall,tanglin,central region
+DT9,Botanic Gardens MRT station,open,1.3225,103.815278,tyersall,tanglin,central region
+NS18,Braddell MRT station,open,1.340339,103.846725,toa payoh west,toa payoh,central region
+CC2,Bras Basah MRT station,open,1.296944,103.850556,bras basah,museum,central region
+NS3A,Brickland MRT station,planned,1.368611,103.749444,gombak,bukit batok,west region
+TE7,Bright Hill MRT station,open,1.363889,103.834722,upper thomson,bishan,central region
+CR13,Bright Hill MRT station,planned,1.363889,103.834722,upper thomson,bishan,central region
+NE15,Buangkok MRT station,open,1.382778,103.893056,compassvale,sengkang,north-east region
+EW12,Bugis MRT station,open,1.300278,103.856111,bugis,downtown core,central region
+DT14,Bugis MRT station,open,1.300278,103.856111,bugis,downtown core,central region
+NS2,Bukit Batok MRT station,open,1.349167,103.749722,bukit batok central,bukit batok,west region
+JE3,Bukit Batok West MRT station,planned,1.345556,103.739722,bukit batok west,bukit batok,west region
+CC18,Bukit Brown MRT station,planned,1.333611,103.83,mount pleasant,novena,central region
+NS3,Bukit Gombak MRT station,open,1.358611,103.751667,guilin,bukit batok,west region
+DT1,Bukit Panjang MRT/LRT station,open,1.378333,103.761667,gombak,bukit batok,west region
+BP6,Bukit Panjang MRT/LRT station,open,1.378333,103.761667,gombak,bukit batok,west region
+EW21,Buona Vista MRT station,open,1.306944,103.790556,one north,queenstown,central region
+CC22,Buona Vista MRT station,open,1.306944,103.790556,one north,queenstown,central region
+CC17,Caldecott MRT station,open,1.337778,103.839444,toa payoh west,toa payoh,central region
+TE9,Caldecott MRT station,open,1.337778,103.839444,toa payoh west,toa payoh,central region
+NS12,Canberra MRT station,open,1.443056,103.829722,sembawang springs,sembawang,north region
+CC31,Cantonment MRT station,planned,1.272778,103.836667,everton park,bukit merah,central region
+DT2,Cashew MRT station,open,1.368889,103.764722,gombak,bukit batok,west region
+CG2,Changi Airport MRT station,open,1.3575,103.988333,changi airport,changi,east region
+TE3x,Changi Airport Terminal 5 MRT station,planned,1.339722,104.01,changi airport,changi,east region
+CR1,Changi Airport Terminal 5 MRT station,planned,1.339722,104.01,changi airport,changi,east region
+NE4,Chinatown MRT station,open,1.285,103.843889,pearl's hill,outram,central region
+DT19,Chinatown MRT station,open,1.285,103.843889,pearl's hill,outram,central region
+EW25,Chinese Garden MRT station,open,1.3425,103.7325,lakeside (leisure),jurong east,west region
+NS4,Choa Chu Kang MRT/LRT station,open,1.385,103.744444,choa chu kang central,choa chu kang,west region
+JS1,Choa Chu Kang MRT/LRT station,planned,1.385,103.744444,choa chu kang central,choa chu kang,west region
+BP1,Choa Chu Kang MRT/LRT station,open,1.385,103.744444,choa chu kang central,choa chu kang,west region
+JS2,Choa Chu Kang West MRT station,planned,1.378889,103.739444,peng siang,choa chu kang,west region
+NS25,City Hall MRT station,open,1.293333,103.852222,city hall,downtown core,central region
+EW13,City Hall MRT station,open,1.293333,103.852222,city hall,downtown core,central region
+NE5,Clarke Quay MRT station,open,1.288611,103.846667,clarke quay,singapore river,central region
+EW23,Clementi MRT station,open,1.315303,103.765244,clementi north,clementi,west region
+CR17,Clementi MRT station,planned,1.315303,103.765244,clementi north,clementi,west region
+EW20,Commonwealth MRT station,open,1.302558,103.798225,commonwealth,queenstown,central region
+JS5,Corporation MRT station,planned,1.353056,103.713889,wenya,jurong west,west region
+CC8,Dakota MRT station,open,1.308333,103.888333,aljunied,geylang,central region
+DE1,DE1 MRT station,planned,1.399722,103.7525,gali batu,sungei kadut,north region
+CR7,Defu MRT station,planned,1.362222,103.898889,lorong halus,hougang,north-east region
+NS24,Dhoby Ghaut MRT station,open,1.299444,103.845,dhoby ghaut,museum,central region
+NE6,Dhoby Ghaut MRT station,open,1.299444,103.845,dhoby ghaut,museum,central region
+CC1,Dhoby Ghaut MRT station,open,1.299444,103.845,dhoby ghaut,museum,central region
+EW22,Dover MRT station,open,1.311314,103.778658,singapore polytechnic,queenstown,central region
+DT17,Downtown MRT station,open,1.279444,103.853056,central subzone,downtown core,central region
+CP2,Elias MRT station,planned,1.383889,103.938056,pasir ris west,pasir ris,east region
+JS9,Enterprise MRT station,planned,1.332778,103.708611,chin bee,jurong west,west region
+CC3,Esplanade MRT station,open,1.293333,103.855556,city hall,downtown core,central region
+EW7,Eunos MRT station,open,1.319722,103.903056,geylang east,geylang,central region
+CG1,Expo MRT station,open,1.335278,103.961944,xilin,tampines,east region
+DT35,Expo MRT station,open,1.335278,103.961944,xilin,tampines,east region
+NE8,Farrer Park MRT station,open,1.312222,103.854167,farrer park,rochor,central region
+CC20,Farrer Road MRT station,open,1.317222,103.8075,tyersall,tanglin,central region
+DT20,Fort Canning MRT station,open,1.292481,103.844325,clarke quay,singapore river,central region
+TE22A,Founders' Memorial MRT station,planned,1.291111,103.869167,marina east,marina east,central region
+TE22,Gardens by the Bay MRT station,open,1.278333,103.868056,marina south,marina south,central region
+JW1,Gek Poh MRT station,planned,1.348333,103.698056,yunnan,jurong west,west region
+DT24,Geylang Bahru MRT station,open,1.321389,103.871389,geylang bahru,kallang,central region
+TE15,Great World MRT station,open,1.295,103.833333,institution hill,river valley,central region
+EW30,Gul Circle MRT station,open,1.3212,103.6657,gul circle,pioneer,west region
+NE1,HarbourFront MRT station,open,1.265278,103.822222,maritime square,bukit merah,central region
+CC29,HarbourFront MRT station,open,1.265278,103.822222,maritime square,bukit merah,central region
+TE16,Havelock MRT station,open,1.287778,103.833611,bukit ho swee,bukit merah,central region
+CC25,Haw Par Villa MRT station,open,1.282778,103.781667,pasir panjang 1,queenstown,central region
+DT3,Hillview MRT station,open,1.3625,103.7675,nature reserve,bukit panjang,west region
+CC21,Holland Village MRT station,open,1.311944,103.796111,leedon park,bukit timah,central region
+JS4,Hong Kah MRT station,planned,1.358056,103.725833,garden,tengah,west region
+NE14,Hougang MRT station,open,1.371389,103.892222,hougang central,hougang,north-east region
+CR8,Hougang MRT station,planned,1.371389,103.892222,hougang central,hougang,north-east region
+DT4,Hume MRT station,open,1.354444,103.769167,hillview,bukit batok,west region
+DT22,Jalan Besar MRT station,open,1.305556,103.855278,little india,rochor,central region
+EW29,Joo Koon MRT station,open,1.327739,103.678486,joo koon,pioneer,west region
+NS1,Jurong East MRT station,open,1.333333,103.742222,jurong gateway,jurong east,west region
+EW24,Jurong East MRT station,open,1.333333,103.742222,jurong gateway,jurong east,west region
+JE5,Jurong East MRT station,planned,1.333333,103.742222,jurong gateway,jurong east,west region
+JS11,Jurong Hill MRT station,planned,1.318611,103.710278,liu fang,boon lay,west region
+CR19,Jurong Lake District MRT station,planned,1.327222,103.739167,lakeside (business),jurong east,west region
+JS12,Jurong Pier MRT station,planned,1.313056,103.710278,jurong port,jurong east,west region
+JE6,Jurong Town Hall MRT station,planned,1.326111,103.746111,international business park,jurong east,west region
+JS6,Jurong West MRT station,planned,1.349167,103.708333,boon lay place,jurong west,west region
+DT28,Kaki Bukit MRT station,open,1.335,103.908889,kaki bukit,bedok,east region
+EW10,Kallang MRT station,open,1.311469,103.8714,boon keng,kallang,central region
+TE24,Katong Park MRT station,open,1.297778,103.885278,tanjong rhu,kallang,central region
+EW6,Kembangan MRT station,open,1.320983,103.912842,kembangan,bedok,east region
+CC24,Kent Ridge MRT station,open,1.293333,103.784444,national university of s'pore,queenstown,central region
+JE,Kent Ridge MRT station,planned,1.293333,103.784444,national university of s'pore,queenstown,central region
+CC30,Keppel MRT station,planned,1.27,103.831111,city terminals,bukit merah,central region
+NS14,Khatib MRT station,open,1.417167,103.8329,khatib,yishun,north region
+DT6,King Albert Park MRT station,open,1.335833,103.783611,holland road,bukit timah,central region
+CR15,King Albert Park MRT station,planned,1.335833,103.783611,holland road,bukit timah,central region
+NE13,Kovan MRT station,open,1.360278,103.885,kovan,hougang,north-east region
+NS7,Kranji MRT station,open,1.425047,103.761853,turf club,sungei kadut,north region
+CC27,Labrador Park MRT station,open,1.272222,103.802778,maritime square,bukit merah,central region
+EW26,Lakeside MRT station,open,1.344589,103.721139,taman jurong,jurong west,west region
+EW11,Lavender MRT station,open,1.307167,103.863008,lavender,kallang,central region
+TE5,Lentor MRT station,open,1.384722,103.836667,tagore,ang mo kio,north-east region
+NE7,Little India MRT station,open,1.306667,103.849722,farrer park,rochor,central region
+DT12,Little India MRT station,open,1.306667,103.849722,farrer park,rochor,central region
+CC14,Lorong Chuan MRT station,open,1.351667,103.864167,lorong chuan,serangoon,north-east region
+CR3,Loyang MRT station,planned,1.371944,103.971944,loyang west,pasir ris,east region
+CC10,MacPherson MRT station,open,1.326667,103.89,macpherson,geylang,central region
+DT26,MacPherson MRT station,open,1.326667,103.89,macpherson,geylang,central region
+CR16,Maju MRT station,planned,1.328333,103.776944,holland road,bukit timah,central region
+NS27,Marina Bay MRT station,open,1.275278,103.854722,central subzone,downtown core,central region
+CE2,Marina Bay MRT station,open,1.275278,103.854722,central subzone,downtown core,central region
+TE20,Marina Bay MRT station,open,1.275278,103.854722,central subzone,downtown core,central region
+TE21,Marina South MRT station,planned,1.273889,103.863056,straits view,straits view,central region
+NS28,Marina South Pier MRT station,open,1.270944,103.86325,straits view,straits view,central region
+TE26,Marine Parade MRT station,open,1.3025,103.905,marine parade,marine parade,central region
+TE27,Marine Terrace MRT station,open,1.306667,103.915,marine parade,marine parade,central region
+NS8,Marsiling MRT station,open,1.432636,103.774283,woodlands west,woodlands,north region
+CC16,Marymount MRT station,open,1.349167,103.839444,upper thomson,bishan,central region
+DT25,Mattar MRT station,open,1.327222,103.882778,macpherson,geylang,central region
+TE18,Maxwell MRT station,open,1.280278,103.843889,chinatown,outram,central region
+TE6,Mayflower MRT station,open,1.3725,103.837222,kebun bahru,ang mo kio,north-east region
+TE10,Mount Pleasant MRT station,planned,1.328611,103.835556,mount pleasant,novena,central region
+CC7,Mountbatten MRT station,open,1.306389,103.8825,aljunied,geylang,central region
+JW4,Nanyang Crescent MRT station,planned,1.348333,103.680833,murai,western water catchment,west region
+JW3,Nanyang Gateway MRT station,planned,1.353611,103.686667,murai,western water catchment,west region
+TE12,Napier MRT station,open,1.3060989,103.819661,ridout,tanglin,central region
+NS21,Newton MRT station,open,1.313056,103.838333,newton circus,newton,central region
+DT11,Newton MRT station,open,1.313056,103.838333,newton circus,newton,central region
+CC5,Nicoll Highway MRT station,open,1.299722,103.863611,nicoll,downtown core,central region
+NS20,Novena MRT station,open,1.320394,103.843689,moulmein,novena,central region
+CC23,One-north MRT station,open,1.299444,103.786944,one north,queenstown,central region
+TE13,Orchard Boulevard MRT station,open,1.3025,103.823889,one tree hill,river valley,central region
+NS22,Orchard MRT station,open,1.303056,103.831389,paterson,river valley,central region
+TE14,Orchard MRT station,open,1.303056,103.831389,paterson,river valley,central region
+EW16,Outram Park MRT station,open,1.280556,103.84,people's park,outram,central region
+NE3,Outram Park MRT station,open,1.280556,103.84,people's park,outram,central region
+TE17,Outram Park MRT station,open,1.280556,103.84,people's park,outram,central region
+JE7,Pandan Reservoir MRT station,planned,1.32,103.745,teban gardens,jurong east,west region
+CC26,Pasir Panjang MRT station,open,1.276111,103.791389,port,queenstown,central region
+CR4,Pasir Ris East MRT station,planned,1.366111,103.961111,pasir ris drive,pasir ris,east region
+EW1,Pasir Ris MRT station,open,1.372411,103.949369,pasir ris central,pasir ris,east region
+CR5,Pasir Ris MRT station,planned,1.372411,103.949369,pasir ris central,pasir ris,east region
+CP1,Pasir Ris MRT station,planned,1.372411,103.949369,pasir ris central,pasir ris,east region
+EW8,Paya Lebar MRT station,open,1.317778,103.8925,geylang east,geylang,central region
+CC9,Paya Lebar MRT station,open,1.317778,103.8925,geylang east,geylang,central region
+JW5,Peng Kang Hill MRT station,planned,1.343333,103.678611,murai,western water catchment,west region
+EW28,Pioneer MRT station,open,1.337578,103.697217,jurong west central,jurong west,west region
+NE10,Potong Pasir MRT station,open,1.331111,103.869167,sennett,toa payoh,central region
+CC32,Prince Edward Road MRT station,planned,1.273333,103.847222,central subzone,downtown core,central region
+CC4,Promenade MRT station,open,1.2925,103.860833,marina centre,downtown core,central region
+DT15,Promenade MRT station,open,1.2925,103.860833,marina centre,downtown core,central region
+NE18,Punggol Coast MRT station,open,1.415278,103.911111,northshore,punggol,north-east region
+NE17,Punggol MRT/LRT station,open,1.405278,103.9025,punggol town centre,punggol,north-east region
+CP4,Punggol MRT/LRT station,open,1.405278,103.9025,punggol town centre,punggol,north-east region
+PTC,Punggol MRT/LRT station,open,1.405278,103.9025,punggol town centre,punggol,north-east region
+EW19,Queenstown MRT station,open,1.294442,103.806114,mei chin,queenstown,central region
+NS26,Raffles Place MRT station,open,1.283889,103.851389,raffles place,downtown core,central region
+EW14,Raffles Place MRT station,open,1.283889,103.851389,raffles place,downtown core,central region
+EW18,Redhill MRT station,open,1.289722,103.816667,redhill,bukit merah,central region
+CP3,Riviera MRT/LRT station,planned,1.394439,103.916772,punggol field,punggol,north-east region
+PE4,Riviera MRT/LRT station,open,1.394439,103.916772,punggol field,punggol,north-east region
+DT13,Rochor MRT station,open,1.303764,103.852581,bencoolen,rochor,central region
+NS11,Sembawang MRT station,open,1.449025,103.820153,sembawang central,sembawang,north region
+NE16,Sengkang MRT/LRT station,open,1.391667,103.895,sengkang town centre,sengkang,north-east region
+STC,Sengkang MRT/LRT station,open,1.391667,103.895,sengkang town centre,sengkang,north-east region
+NE12,Serangoon MRT station,open,1.349167,103.873611,upper paya lebar,serangoon,north-east region
+CC13,Serangoon MRT station,open,1.349167,103.873611,upper paya lebar,serangoon,north-east region
+CR9,Serangoon North MRT station,planned,1.370556,103.873611,serangoon garden,serangoon,north-east region
+TE19,Shenton Way MRT station,open,1.2775,103.850833,central subzone,downtown core,central region
+TE28,Siglap MRT station,open,1.309722,103.928889,frankel,bedok,east region
+EW3,Simei MRT station,open,1.343444,103.953172,simei,tampines,east region
+DT7,Sixth Avenue MRT station,open,1.330833,103.7975,coronation road,bukit timah,central region
+NS23,Somerset MRT station,open,1.300514,103.839028,somerset,orchard,central region
+TE4,Springleaf MRT station,open,1.397778,103.818333,springleaf,yishun,north region
+CC6,Stadium MRT station,open,1.302778,103.875278,tanjong rhu,kallang,central region
+DT10,Stevens MRT station,open,1.32,103.826111,nassim,tanglin,central region
+TE11,Stevens MRT station,open,1.32,103.826111,nassim,tanglin,central region
+DT37,Sungei Bedok MRT station,planned,1.320278,103.957222,bayshore,bedok,east region
+TE31,Sungei Bedok MRT station,planned,1.320278,103.957222,bayshore,bedok,east region
+NS6,Sungei Kadut MRT station,planned,1.413333,103.748889,pang sua,sungei kadut,north region
+DE2,Sungei Kadut MRT station,planned,1.413333,103.748889,pang sua,sungei kadut,north region
+CC11,Tai Seng MRT station,open,1.335833,103.888056,tai seng,hougang,north-east region
+DT33,Tampines East MRT station,open,1.356389,103.954722,tampines east,tampines,east region
+EW2,Tampines MRT station,open,1.355,103.943889,tampines east,tampines,east region
+DT32,Tampines MRT station,open,1.355,103.943889,tampines east,tampines,east region
+CR6,Tampines North MRT station,planned,1.369167,103.937778,tampines north,tampines,east region
+DT31,Tampines West MRT station,open,1.345556,103.938333,tampines west,tampines,east region
+DT8,Tan Kah Kee MRT station,open,1.326111,103.807222,coronation road,bukit timah,central region
+EW4,Tanah Merah MRT station,open,1.327358,103.946344,bedok north,bedok,east region
+CG,Tanah Merah MRT station,open,1.327358,103.946344,bedok north,bedok,east region
+TE25,Tanjong Katong MRT station,open,1.299167,103.897778,marine parade,marine parade,central region
+EW15,Tanjong Pagar MRT station,open,1.276439,103.845711,tanjong pagar,downtown core,central region
+TE23,Tanjong Rhu MRT station,open,1.297222,103.873333,tanjong rhu,kallang,central region
+CR10,Tavistock MRT station,planned,1.37,103.863333,serangoon garden,serangoon,north-east region
+JW2,Tawas MRT station,planned,1.350556,103.691944,cleantech,western water catchment,west region
+CR12,Teck Ghee MRT station,planned,1.365556,103.843611,townsville,ang mo kio,north-east region
+DT18,Telok Ayer MRT station,open,1.282222,103.848333,chinatown,outram,central region
+CC28,Telok Blangah MRT station,open,1.270556,103.809722,maritime square,bukit merah,central region
+JS3,Tengah MRT station,planned,1.366389,103.73,park,tengah,west region
+JE2,Tengah Park MRT station,planned,1.352222,103.736667,plantation,tengah,west region
+JE1,Tengah Plantation MRT station,planned,1.357222,103.733333,plantation,tengah,west region
+EW17,Tiong Bahru MRT station,open,1.286081,103.826958,tiong bahru station,bukit merah,central region
+NS19,Toa Payoh MRT station,open,1.332778,103.8475,toa payoh central,toa payoh,central region
+JE4,Toh Guan MRT station,planned,1.339722,103.7425,toh guan,jurong east,west region
+EW31,Tuas Crescent MRT station,open,1.321139,103.649,tuas north,tuas,west region
+EW33,Tuas Link MRT station,open,1.340278,103.636806,tuas promenade,tuas,west region
+EW32,Tuas West Road MRT station,open,1.330056,103.639611,tuas north,tuas,west region
+JS10,Tukang MRT station,planned,1.325278,103.709167,tukang,boon lay,west region
+CR14,Turf City MRT station,planned,1.340833,103.794444,swiss club,bukit timah,central region
+DT27,Ubi MRT station,open,1.33,103.9,kampong ubi,geylang,central region
+DT34,Upper Changi MRT station,open,1.341944,103.961389,simei,tampines,east region
+TE8,Upper Thomson MRT station,open,1.354167,103.833333,upper thomson,bishan,central region
+JE,West Coast MRT station,planned,1.310833,103.757778,clementi west,clementi,west region
+CR18,West Coast MRT station,planned,1.310833,103.757778,clementi west,clementi,west region
+NS9,Woodlands MRT station,open,1.437094,103.786483,woodlands regional centre,woodlands,north region
+TE2,Woodlands MRT station,open,1.437094,103.786483,woodlands regional centre,woodlands,north region
+TE1,Woodlands North MRT station,open,1.448333,103.785,greenwood park,woodlands,north region
+RTS,Woodlands North MRT station,planned,1.448333,103.785,greenwood park,woodlands,north region
+TE3,Woodlands South MRT station,open,1.427222,103.793889,woodlands south,woodlands,north region
+NE11,Woodleigh MRT station,open,1.339167,103.870833,bidadari,toa payoh,central region
+DT36,Xilin MRT station,planned,1.328889,103.965,xilin,tampines,east region
+NS5,Yew Tee MRT station,open,1.396986,103.747239,yew tee,choa chu kang,west region
+NS15,Yio Chu Kang MRT station,open,1.381906,103.844817,yio chu kang,ang mo kio,north-east region
+NS13,Yishun MRT station,open,1.429464,103.835239,yishun west,yishun,north region
