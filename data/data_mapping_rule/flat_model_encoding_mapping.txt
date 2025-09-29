@@ -1,0 +1,27 @@
+FLAT_MODEL编码映射规则
+==================================================
+格式: 房型细分 -> 编码值
+
+2 room -> 1
+3gen -> 2
+adjoined flat -> 3
+apartment -> 4
+dbss -> 5
+improved -> 6
+improved maisonette -> 7
+maisonette -> 8
+model a -> 9
+model a maisonette -> 10
+model a2 -> 11
+multi generation -> 12
+new generation -> 13
+premium apartment -> 14
+premium apartment loft -> 15
+premium maisonette -> 16
+simplified -> 17
+standard -> 18
+terrace -> 19
+type s1 -> 20
+type s2 -> 21
+
+总计: 21个房型细分

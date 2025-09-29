@@ -1,0 +1,32 @@
+TOWN编码映射规则
+==================================================
+格式: 城镇名称 -> 编码值
+
+ang mo kio -> 1
+bedok -> 2
+bishan -> 3
+bukit batok -> 4
+bukit merah -> 5
+bukit panjang -> 6
+bukit timah -> 7
+central area -> 8
+choa chu kang -> 9
+clementi -> 10
+geylang -> 11
+hougang -> 12
+jurong east -> 13
+jurong west -> 14
+kallang/whampoa -> 15
+marine parade -> 16
+pasir ris -> 17
+punggol -> 18
+queenstown -> 19
+sembawang -> 20
+sengkang -> 21
+serangoon -> 22
+tampines -> 23
+toa payoh -> 24
+woodlands -> 25
+yishun -> 26
+
+总计: 26个城镇
