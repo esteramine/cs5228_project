@@ -4,3 +4,4 @@ plots/
 __pycache__/
 .venv/
 code/.ipynb_checkpoints/
+result/
