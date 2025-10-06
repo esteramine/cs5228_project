@@ -2,3 +2,4 @@
 ./project-report-templates/
 plots/
 __pycache__/
+.venv/
