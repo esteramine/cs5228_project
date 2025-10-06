@@ -1,2 +1,4 @@
 .DS_Store
 ./project-report-templates/
+plots/
+__pycache__/
