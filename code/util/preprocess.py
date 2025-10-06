@@ -31,9 +31,6 @@ def preprocess(df_original):
     # FLOOR_AVG
     df['FLOOR_AVG'] = df['FLOOR_RANGE'].apply(get_floor_avg)
 
-    # df = pd.get_dummies(df, columns=['FLAT_TYPE'])
-    # TODO: floor range / flat model / lease commence data
-
     # drop unused data
     df = df.drop(['ECO_CATEGORY'], axis=1)
     # ['TOWN', 'BLOCK', 'STREET', 'FLAT_TYPE', 'FLOOR_BUCKET', 'FLOOR_RANGE']
