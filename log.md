@@ -15,3 +15,9 @@
 2025.9.29 lzz ----"完成数据预处理"
 + 完成训练集的处理
 + 将编码信息分别放入了3个txt中
+
+Oct 6
+- CV validation score is good. it aligns with the kaggle public board score trend 
+
+TODO:
+- base line potentially to check different scaler : currently standard scaler is used; can we use robust scaler so that we can remove influence from outliers? see this documentation from sklearn: https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html
