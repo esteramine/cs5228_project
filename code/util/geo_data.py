@@ -1,10 +1,14 @@
 import numpy as np
 import pandas as pd
+import os
 
-hdb_detail = pd.read_csv("../../data/auxiliary-data/sg-hdb-block-details.csv")
-mrt_stations = pd.read_csv("../../data/auxiliary-data/sg-mrt-stations.csv")
-hawkers = pd.read_csv("../../data/auxiliary-data/sg-gov-hawkers.csv")
-shopping_malls = pd.read_csv("../../data/auxiliary-data/sg-shopping-malls.csv")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+data_dir = os.path.join(BASE_DIR, "data", "auxiliary-data")
+
+hdb_detail = pd.read_csv(os.path.join(data_dir, "sg-hdb-block-details.csv"))
+mrt_stations = pd.read_csv(os.path.join(data_dir, "sg-mrt-stations.csv"))
+hawkers = pd.read_csv(os.path.join(data_dir, "sg-gov-hawkers.csv"))
+shopping_malls = pd.read_csv(os.path.join(data_dir, "sg-shopping-malls.csv"))
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6_371_000
